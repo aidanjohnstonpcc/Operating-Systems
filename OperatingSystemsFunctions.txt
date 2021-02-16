@@ -1,3 +1,5 @@
 Compatibility with various types of software and hardware with Windows is quite expansive. For example, when plugging in peripherals, your Windows PC will install any necessary 
 drivers to the system. You can also have Windows automatically search the internet to update any drivers currently installed. Windows is also compatible with an ocean of computer
 hardware, many of such that can date back to the VERY early 2000s or even perhaps earlier.
+
+Customizing your desktop with Windows is easy to do, and can look quite beautiful. You can customize your desktop wallpaper, your taskbar color, and even your Windows GUI theme (with advanced options)! You can also download third party tools to take your PC customization to the next level.
