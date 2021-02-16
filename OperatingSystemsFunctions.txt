@@ -3,3 +3,5 @@ drivers to the system. You can also have Windows automatically search the intern
 hardware, many of such that can date back to the VERY early 2000s or even perhaps earlier.
 
 Customizing your desktop with Windows is easy to do, and can look quite beautiful. You can customize your desktop wallpaper, your taskbar color, and even your Windows GUI theme (with advanced options)! You can also download third party tools to take your PC customization to the next level.
+
+If you need an extra performance boost, you can head to your Windows motherboard BIOS to make any necessary changes. Many motherboards support capabilities for changing RAM speeds, CPU speeds, and vice versa. This will allow you to make your PC run considerably faster in many applications, but will draw more power from your power supply. If you want to overclock your graphics card, you will need a compatible graphics card that can overclock and you will need the thirdparty software to do it
